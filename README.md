@@ -14,8 +14,7 @@ Birthed from the wilds of the 40's Discord, a collabration by Whydobearsxplod, S
 Cutouts in the top and bottom of the case allow for small sections of foam to be inserted, creating a gasket isolated experience.
 Additionally, the PCB sports an unprecedented omnidirectional footprint, allowing for MX, Choc, or Alps switches.
 
-![PCBView1](https://github.com/dingusxmcgee/Zoinks/blob/master/Photos/ZoinksPCB1.jpg?raw=true)
-![PCBView2](https://github.com/dingusxmcgee/Zoinks/blob/master/Photos/ZoinksPCB2.jpg?raw=true)
+![PCBView](https://github.com/dingusxmcgee/Zoinks/blob/master/Photos/ZoinksPCB.jpg?raw=true)
 
 The PCB can be purchased by contacting KnoblessOblige on Discord: Taylor#2460
 
